@@ -167,17 +167,17 @@ Web界面：
 
 预测效果：
 
-![p (1)](Readme.assets/p (1).jpg)
+![p1](Readme.assets/p1.jpg)
 
-![p (2)](Readme.assets/p (2).jpg)
+![p2](Readme.assets/p2.jpg)
 
-![p (3)](Readme.assets/p (3).jpg)
+![p3](Readme.assets/p3.jpg)
 
-![p (4)](Readme.assets/p (4).jpg)
+![p4](Readme.assets/p4.jpg)
 
-![p (5)](Readme.assets/p (5).jpg)
+![p5](Readme.assets/p5.jpg)
 
-![p (6)](Readme.assets/p (6).jpg)
+![p6](Readme.assets/p6.jpg)
 
 * RSRS选股界面
   
