@@ -1,6 +1,6 @@
 ### 软件架构
 
-![](C:\Users\Administrator\Desktop\Stockquant\组织结构图.jpg)
+![组织结构图](组织结构图.jpg)
 
 ##### github仓库：
 
@@ -54,20 +54,20 @@ Qt界面：
 
 * 主界面
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\home.png)
+  ![home](Readme.assets/home.png)
   
   **主界面主要展示三大指数**
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\data_2.png)
+  ![data_1](Readme.assets/data_1.png)
   
   **日常数据获取更新**
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\data_1.png)
+  ![data_2](Readme.assets/data_2.png)
   
   **当点击按钮进行数据更新时，按钮状态变灰且不可再次点击，等更新完毕按钮恢复原状（所有的按钮都如此，运行状态不可重复点击）**
 - 股票数据展示
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\stock.png)
+  ![stock](Readme.assets/stock.png)
   
   **1.热点股票页面**
   
@@ -77,7 +77,7 @@ Qt界面：
 
 - 交易功能
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\trade_1.png)
+  ![trade_1](Readme.assets/trade_1.png)
   
   **日常股票交易：**
   
@@ -95,11 +95,11 @@ Qt界面：
   
   * 网格交易
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\trade_2.png)
+  ![trade_2](Readme.assets/trade_2.png)
   
   **机器盯盘，设置数据更新间隔，当股票出现上涨或下跌时，企业微信（邮箱）通知**
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\trade_3.png)
+  ![trade_3](Readme.assets/trade_3.png)
   
   **盯盘价格曲线**
   
@@ -107,7 +107,7 @@ Qt界面：
 
 - 基金数据展示
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\fund.png)
+  ![fund](Readme.assets/fund.png)
   
   **基金展示页面**
   
@@ -143,7 +143,7 @@ Qt界面：
 
 - 数据库检查
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\database.png)
+  ![database](Readme.assets/database.png)
   
   **数据库数据检查页面**
 
@@ -161,25 +161,27 @@ Web界面：
 
 - 股票指标分析
 
-![](C:\Users\Administrator\Desktop\Stockquant\png\predict.png)
+![web_home](Readme.assets/web_home.png)
+
+![predict](Readme.assets/predict.png)
 
 预测效果：
 
-![](C:\Users\Administrator\Desktop\Stockquant\predict_png\1.jpg)
+![p (1)](Readme.assets/p (1).jpg)
 
-![](C:\Users\Administrator\Desktop\Stockquant\predict_png\2.jpg)
+![p (2)](Readme.assets/p (2).jpg)
 
-![](C:\Users\Administrator\Desktop\Stockquant\predict_png\3.jpg)
+![p (3)](Readme.assets/p (3).jpg)
 
-![](C:\Users\Administrator\Desktop\Stockquant\predict_png\4.jpg)
+![p (4)](Readme.assets/p (4).jpg)
 
-![](C:\Users\Administrator\Desktop\Stockquant\predict_png\5.jpg)
+![p (5)](Readme.assets/p (5).jpg)
 
-![](C:\Users\Administrator\Desktop\Stockquant\predict_png\6.jpg)
+![p (6)](Readme.assets/p (6).jpg)
 
 * RSRS选股界面
   
-  ![](C:\Users\Administrator\Desktop\Stockquant\png\rsrs.png)
+  ![rsrs](Readme.assets/rsrs.png)
   
   **RSRS的作用介绍网上有很多，无非就是期望得到超越大盘的收益，提前预测牛熊的到来，也可参考这篇文章《 真·躺着赚钱！写代码全自动炒股，五万元，半年后能赚多少？》https://mp.weixin.qq.com/s/fRXNLjgI-MoSO0TYdxAOeA**
 
